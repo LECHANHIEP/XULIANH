@@ -1,1 +1,0 @@
-print("mình là hiệp ")
